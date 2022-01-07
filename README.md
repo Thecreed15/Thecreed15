@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thecreed15
+- 👀 I’m interested in web development ,Application Developmentation and etc...
+- 🌱 I’m currently pursuing B.Tec in CSE stream..
+- 💞️ I’m looking for job in CSE field.
